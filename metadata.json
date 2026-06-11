@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Learning App for Gor and Gayane",
+  "description": "An interactive Spanish learning application for Gor and Gayane featuring drag-and-drop conversational fill-in-the-blanks, click-to-translate Armenian prompts, and a head-to-head translation game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
